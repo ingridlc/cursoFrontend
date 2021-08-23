@@ -1,1 +1,1 @@
-"#cursoFrontend" 
+cursoFrontend
